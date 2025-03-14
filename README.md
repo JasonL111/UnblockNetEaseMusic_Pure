@@ -1,6 +1,9 @@
 # UnblockNetEaseMusic_Pure
 一个简单的脚本来帮助大家在海外正常使用网易云。Python原生部署，不使用docker。
 
+# 原理
+每日自动用国内IP和网易云服务器交互一次来绕过IP限制。
+
 # 使用方法
 
 
