@@ -1,0 +1,2 @@
+# UnblockNetEaseMusic_Pure
+一个简单的脚本来帮助大家在海外正常使用网易云，不使用docker
