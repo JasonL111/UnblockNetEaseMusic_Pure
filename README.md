@@ -6,12 +6,12 @@
 
 ## 1. 下载程序
 ```bash
-    git clone https://github.com/JasonL111/UnblockNetEaseMusic_Pure.git
+git clone https://github.com/JasonL111/UnblockNetEaseMusic_Pure.git
 ```
 ## 2. 安装依赖
 一般来说，需要额外安装`requests`和`bs4`
 ```bash
-    pip install requests beautifulsoup4
+pip install requests beautifulsoup4
 ```
 
 
@@ -25,4 +25,4 @@
 
 # 参考项目
 
-(UnblockNetEaseMusic)[https://github.com/Kyle-Kyle/UnblockNetEaseMusic/blob/main/README.md?plain=1]
+[UnblockNetEaseMusic](https://github.com/Kyle-Kyle/UnblockNetEaseMusic/blob/main/README.md?plain=1)
