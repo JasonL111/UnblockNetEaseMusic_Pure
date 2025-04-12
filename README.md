@@ -23,6 +23,7 @@ pip install requests beautifulsoup4
 - 打开网易云(https://music.163.com/) 登录账号后 --> 按下`F12` --> `Application` --> `Cookies` --> `https://music.163.com`
 - 找到所需要参数对应的数据.
 - 找到代码中的这一行`music_u = ""`，填入你从浏览器获取的网易云音乐 Cookie 中的 MUSIC_U 值
+注意：`MUSIC_U`有过期日期，若解锁失败的同时日志无异常，请考虑排查`MUSIC_U1`过期
 
 
 
